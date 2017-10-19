@@ -1,4 +1,4 @@
-# Project-Rosalind-Bioinformatics-Armory
+# Project Rosalind Bioinformatics Armory
 Solutions to [Project Rosalind Bioinformatics Armory](http://rosalind.info/problems/list-view/?location=bioinformatics-armory) problems.
 
 [Link to Profile](http://rosalind.info/users/tim_ope/)
@@ -12,3 +12,7 @@ Solutions to [Project Rosalind Bioinformatics Armory](http://rosalind.info/probl
 | T-SQL | 0 |
 | R | 0 |
 | C# | 0 |
+
+| Problem  | Name | Python | T-SQL | R | C# |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Problem 1  | [Introduction to the Bioinformatics Armory](http://rosalind.info/problems/ini/) |
