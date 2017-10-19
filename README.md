@@ -15,4 +15,4 @@ Solutions to [Project Rosalind Bioinformatics Armory](http://rosalind.info/probl
 
 | Problem  | Name | Python | T-SQL | R | C# |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Problem 1  | [Introduction to the Bioinformatics Armory](http://rosalind.info/problems/ini/) |
+| Problem 1  | [Introduction to the Bioinformatics Armory](http://rosalind.info/problems/ini/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Armory/blob/master/01_INI/INI.py)
